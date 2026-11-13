@@ -1,0 +1,5 @@
+/* GameArena — estilos propios (encima de Bootstrap) */
+
+.card-estrecha {
+  max-width: 420px;
+}
